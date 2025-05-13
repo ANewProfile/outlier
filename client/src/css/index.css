@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+/* Dark mode styles (default) */
+
+body {
+    background-color: #1e1e1e; /* slightly lighter than pure black */
+    color: #f5f5f5;
+}
+
+::selection {
+    background: #6366f1;
+    color: #fff;
+}
+
+/* Light mode overrides */
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #ffffff;
+        color: #111111;
+        font-family: system-ui, sans-serif;
+        line-height: 1.5;
+        min-height: 100vh;
+    }
+}
