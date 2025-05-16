@@ -3,7 +3,6 @@
 Outlier is a prototype web app built to help students take back control from a broken school system. It helps overwhelmed students turn chaos into clarity by generating structured, actionable study plans, enabling focused work sessions, and prompting mindful emotional check-ins.
 
 > Built with React, TypeScript, Vite, and TailwindCSS  
-> MVP deadline: May 29, 2025
 
 ---
 
