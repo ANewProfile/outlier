@@ -33,8 +33,9 @@ Outlier is a prototype web app built to help students take back control from a b
 - **Frontend:** React + TypeScript
 - **Build Tool:** Vite
 - **Styling:** TailwindCSS
-- **AI Integration:** OpenAI (GPT-4) for plan generation
+- **AI Integration:** Anthropic for plan generation
 - **State Management:** React state (localStorage for persistence)
+- **Database/Sync:** Turso + Drizzle ORM
 - **Deployment:** unknown
 
 ---
