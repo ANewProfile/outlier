@@ -1,50 +1,29 @@
-# Outlier (MVP)
+# Breakpoint
 
-Outlier is a prototype web app built to help students take back control from a broken school system. It helps overwhelmed students turn chaos into clarity by generating structured, actionable study plans, enabling focused work sessions, and prompting mindful emotional check-ins.
+### A student’s counterweight to a broken school system
 
-> Built with React, TypeScript, Vite, and TailwindCSS  
+Breakpoint isn’t another planner or “motivation” app. It’s built from the raw frustrations students deal with every day—overloaded workloads, burned-out teachers, no guidance, and the constant stress of trying to balance school with life.
 
----
+Instead of trying to “fix” school, Breakpoint gives you leverage:
 
-## 🔧 Features
-
-### 1. Task Input + Plan Generator
-
-- Enter a task (e.g., “Essay on Macbeth”) and due date
-- Outlier uses AI to break it down into daily steps
-- No more staring at a blank screen not knowing where to start
-
-### 2. Focus Mode
-
-- Pick a single step from the plan
-- Work in a clean, distraction-free environment
-- Optional timer and note-taking built-in
-
-### 3. Emotional Check-ins
-
-- Before and after each session, reflect on your mindset
-- Simple mood tracking to stay in tune with your mental state
-- Local only – no data collected
+- **Offload the chaos** → dump assignments, tasks, and stress without overthinking  
+- **Clear study plans** → practical, no-BS breakdowns so you know exactly what to do next  
+- **Track what matters** → progress on your terms, not endless checkboxes  
+- **Real strategies** → tools for focus, burnout, and navigating systems that don’t care  
 
 ---
 
-## 📁 Tech Stack
-
-- **Frontend:** React + TypeScript
-- **Build Tool:** Vite
-- **Styling:** TailwindCSS
-- **AI Integration:** Anthropic for plan generation
-- **State Management:** React state (localStorage for persistence)
-- **Database/Sync:** Turso + Drizzle ORM
-- **Deployment:** unknown
+### Why it exists
+School piles on busywork, ignores mental health, and often leaves students to figure it out alone. Breakpoint isn’t about pretending the system works—it’s about giving you clarity, agency, and tools that actually match the reality you’re in.  
 
 ---
 
-## 🚀 Running Locally
+### What makes it different
+- Not a “self-help” app  
+- Not productivity theater  
+- Not built for teachers or administrators—it’s built for students, by students  
 
-```bash
-git clone https://github.com/anewprofile/outlier.git
-cd outlier
-npm install
-npm run dev
-```
+---
+
+### Status
+Currently in early development. Expect rapid changes, experiments, and rough edges.
